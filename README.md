@@ -1,8 +1,6 @@
 # DeviseExpirable
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/devise_expirable`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Simple module for Devise that will expire a login session regardless of activity. It defaults to `1.day` but can be customized in your Devise setup with `config.expires_in = 20.minutes`.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Simple module for Devise that will expire a login session regardless of activity. It defaults to `1.day` but can be customized in your Devise setup with `config.expires_in = 20.minutes`.
 
 ## Development
 
