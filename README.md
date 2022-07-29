@@ -30,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/devise_expirable.
+Bug reports and pull requests are welcome on GitHub at https://github.com/watsonjon/devise_expirable.
 
 ## License
 
