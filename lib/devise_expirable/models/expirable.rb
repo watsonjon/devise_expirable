@@ -23,7 +23,7 @@ module Devise
       extend ActiveSupport::Concern
 
       def self.required_fields(_klass)
-        []
+        %i[current_sign_in_at]
       end
 
       # Checks whether the user session has expired based on configured time.
